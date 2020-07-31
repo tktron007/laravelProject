@@ -6,7 +6,29 @@ This Project is develop using PHP and Laravel technologies .
 PHP is a general-purpose scripting language that is especially suited to web development.
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.
 
+# Home Page
 ![title](pictures/intro.png)
+
+# Registration
+![title](pictures/registration1.png)
+
+# Login
+![title](pictures/login1.png)
+![title](pictures/afterLogin.png)
+
+# Appointment
+![title](pictures/appointment1.png)
+
+# Doctors
+![title](pictures/doctors.png)
+
+# Departments
+![title](pictures/departments.png)
+
+# About us 
+![title](pictures/aboutus.png)
+
+
 
 ## License
 
